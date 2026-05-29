@@ -1,0 +1,6 @@
+# Ignore native mobile boilerplate and wrappers from language statistics
+HowudoinApp/android/**/* linguist-vendored
+HowudoinApp/ios/**/* linguist-vendored
+**/gradlew linguist-vendored
+**/gradlew.bat linguist-vendored
+**/gradle/**/* linguist-vendored
