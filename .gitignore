@@ -1,0 +1,40 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Project archives
+cs310_proje.zip
+
+# Build and IDE directories
+.idea/
+.gradle/
+build/
+bin/
+out/
+.vscode/
+
+# Dependency directories
+node_modules/
+.bundle/
+vendor/
+
+# Spring Boot build output
+howudoin/build/
+howudoin/.gradle/
+howudoin/.idea/
+
+# React Native build output
+HowudoinApp/node_modules/
+HowudoinApp/android/build/
+HowudoinApp/android/app/build/
+HowudoinApp/ios/Pods/
+HowudoinApp/ios/build/
+HowudoinApp/.bundle/
+HowudoinApp/vendor/
+HowudoinApp/.idea/
+HowudoinApp/.expo/
+
+# Duplicate screenshots
+cs310\ SS's/
+cs310 SS's/
+
